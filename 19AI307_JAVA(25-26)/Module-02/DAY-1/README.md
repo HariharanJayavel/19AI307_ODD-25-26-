@@ -72,7 +72,7 @@ class prog {
 
 ## OUTPUT:
 
-
+![alt text](image.png)
 
 ## RESULT:
 
